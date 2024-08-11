@@ -88,7 +88,7 @@ A interface gráfica foi desenvolvida utilizando a biblioteca `customtkinter`. O
 
 3. **Execute o script:**
    ```bash
-   python nome_do_arquivo.py
+   GeradorCriptografado.py
    ```
 
 ## Contribuições
